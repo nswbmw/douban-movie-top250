@@ -1,0 +1,24 @@
+{
+  "name": "douban-movie-top250",
+  "version": "1.0.0",
+  "description": "豆瓣电影 Top 250 爬虫",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nswbmw/douban-movie-top250.git"
+  },
+  "author": "nswbmw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nswbmw/douban-movie-top250/issues"
+  },
+  "homepage": "https://github.com/nswbmw/douban-movie-top250#readme",
+  "dependencies": {
+    "axios": "0.16.2",
+    "cheerio": "1.0.0-rc.2"
+  }
+}
